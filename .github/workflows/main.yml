@@ -16,8 +16,8 @@ jobs:
       - name: Add remote 
         env:
           HF: ${{ secrets.HF }}
-        run: git remote add space https://viswesn:$HF@huggingface.co/spaces/viswesn/ML-Learning
+        run: git remote add space https://viswesn:$HG@huggingface.co/spaces/viswesn/ML-Learning
       - name: Push to hub
         env:
           HF: ${{ secrets.HF }}
-        run: git push --force https://viswesn:$HF@huggingface.co/spaces/viswesn/ML-Learning main
+        run: git push --force https://viswesn:$HG@huggingface.co/spaces/viswesn/ML-Learning main
