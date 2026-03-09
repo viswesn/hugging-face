@@ -11,7 +11,7 @@ license: cc
 ---
 
 
-[![Sync to Hugging Face hub](https://github.com/viswesn/hugging-face/blob/main/.github/workflows/main.yml/badge.svg)](https://github.com/viswesn/hugging-face/blob/main/.github/workflows/main.yml)
+[![Sync to Hugging Face hub]((https://github.com/viswesn/hugging-face/actions/workflows/main.yml/badge.svg)](https://github.com/viswesn/hugging-face/actions/workflows/main.yml))
 
 
 [Try Demo Text Summarization Here](https://huggingface.co/spaces/viswesn/ML-Learning)
